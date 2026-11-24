@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 24/11/2026
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -16,7 +16,8 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="640" height="376" alt="Screenshot 2026-11-24 174245" src="https://github.com/user-attachments/assets/4a9251fe-4dce-4e7d-bd57-876dd6a7845d" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +81,24 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="640" height="376" alt="image" src="https://github.com/user-attachments/assets/eddd9edd-a9d6-4d16-a2e2-7f2c32e7dda1" />
+<img width="640" height="376" alt="Screenshot 2026-11-24 175958" src="https://github.com/user-attachments/assets/43d03094-40ad-4f7d-a448-4713db9a5402" />
+
+
 •	Running configuration before and after<br>
+<img width="640" height="370" alt="Screenshot 2026-11-24 174647" src="https://github.com/user-attachments/assets/ceb405b6-2e1f-4bf9-a3a1-3553ff63dd29" />
+<img width="640" height="379" alt="Screenshot 2026-11-24 174715" src="https://github.com/user-attachments/assets/574c7ff5-7f75-42c0-aafe-4f10a574c755" />
+
+
 •	MOTD banner display<br>
+<img width="640" height="376" alt="Screenshot 2026-11-24 174449" src="https://github.com/user-attachments/assets/1879f352-cce7-45cc-be96-21820d0e68ad" />
+
 •	Password prompts<br>
+<img width="637" height="362" alt="Screenshot 2026-11-24 174731" src="https://github.com/user-attachments/assets/76a96582-a974-4691-8b59-6c895cba9b3f" />
+
 •	Saved configuration in NVRAM and flash<br>
+<img width="640" height="370" alt="Screenshot 2026-11-24 174825" src="https://github.com/user-attachments/assets/15aa6908-42c9-4947-abe9-7dc0c9ebe428" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
